@@ -6,14 +6,15 @@
 <li>Database coursework 2</li>
 <li>Student: Li-Hsin Liang</li>
 <li>Student ID: LIA21510865</li>
+<li><a href="https://github.com/Cindywritescode/ohmai-database" target="_blank">Coursework Link</a></li>
 </ul>
-[Coursework Links](https://github.com/Cindywritescode/ohmai-database)
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 ## 1. Database Implementation
+
 We have learned in class how to complete the database with phpMyAdmin. However, I thought it would be great to have
 access to additional database tools. Therefore, this coursework is using database IDE (Integrated Development
 Environment) DataGrip to complete. For the database server, instead of using XAMPP, I downloaded MySQL to my local
@@ -252,9 +253,11 @@ create index id_account
 create index id_post
     on views (id_post);
 ```
+
 <br>
 
 ### 1.2 ERD Diagram
+
 <br>
 <img src="./images/ohmai-schema.png" alt="ohmai-schema" style=" width:auto;"/>
 <br>
@@ -436,6 +439,7 @@ VALUES (4, 'Really! maybe I should try other brand', 3, 5);
 INSERT INTO ohmai.comments (comment_id, comment, id_review, id_account)
 VALUES (5, 'I tried, good item', 4, 1);
 ```
+
 <br>
 
 ## 3. Lab Assessment Questions
