@@ -1,0 +1,14 @@
+1. Return the
+number of reviews
+which review comments contains string 'it'
+
+
+2. Return the
+post title and description
+for the posts
+which contains the promotion
+which end_date is on year 2023.
+
+3. Return the
+review comments and post_id
+which are written by account name cindy.
