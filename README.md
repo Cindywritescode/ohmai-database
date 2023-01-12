@@ -483,4 +483,4 @@ WHERE accounts.name = 'Cindy';
 ```
 
 Output:
-> <img src="./images/Q3.png" alt="Question3 answer" style=" width:auto;"/>
+> <img src="./images/Q3.png" alt="Question3 answer" style=" width:500px;" />
