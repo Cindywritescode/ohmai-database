@@ -1,6 +1,6 @@
 <br><br><br><br><br><br><br><br><br><br><br>
 <div style="text-align: center;">
-<img src="./ohmai-logo.png" alt="ohmai-logo" style=" width:100px"/>
+<img src="./images/ohmai-logo.png" alt="ohmai-logo" style=" width:100px"/>
 <h1>Database Implementation for Ohmai</h1>
 <ul style="list-style-type: none">
 <li>Database coursework 2</li>
@@ -254,7 +254,7 @@ create index id_post
 
 ### 1.2 ERD Diagram
 <br>
-<img src="./ohmai-schema.png" alt="ohmai-schema" style=" width:auto;"/>
+<img src="./images/ohmai-schema.png" alt="ohmai-schema" style=" width:auto;"/>
 <br>
 
 ### 1.3 Insert Sample Data
@@ -449,7 +449,7 @@ WHERE comments LIKE '%it%';
 ```
 
 Output:
-> <img src="./Q1.png" alt="Question1 answer" style=" width:400px;"/>
+> <img src="./images/Q1.png" alt="Question1 answer" style=" width:400px;"/>
 <br>
 
 ### 3.2 Return the post title and description for the post which contains the promotion which end_date is on year 2023.
@@ -465,7 +465,7 @@ WHERE posts.id_promotion = promotion.promotion_id
 ```
 
 Output:
-> <img src="./Q2.png" alt="Question3 answer" style=" width:auto;"/>
+> <img src="./images/Q2.png" alt="Question3 answer" style=" width:auto;"/>
 <br>
 
 ### 3.3 Return the review comments and post_id which are written by account name cindy.
@@ -483,4 +483,4 @@ WHERE accounts.name = 'Cindy';
 ```
 
 Output:
-> <img src="./Q2.png" alt="Question3 answer" style=" width:auto;"/>
+> <img src="./images/Q3.png" alt="Question3 answer" style=" width:auto;"/>
