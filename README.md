@@ -1,11 +1,12 @@
 <br><br><br><br><br><br><br><br><br><br><br>
-
-<center><img src="./ohmai-logo.png" alt="ohmai-logo" style=" width:100px"/></center>
-
-<center><h1>Database Implementation for Ohmai</h1></center>
-<center>Database coursework 2</center>
-<center>Student: Li-Hsin Liang </center>
-<center>Student ID: LIA21510865</center>
+<div style="text-align: center;">
+<img src="./ohmai-logo.png" alt="ohmai-logo" style=" width:100px"/>
+<h1>Database Implementation for Ohmai</h1>
+<ul style="list-style-type: none">
+<li>Database coursework 2</li>
+<li>Student: Li-Hsin Liang</li>
+<li>Student ID: LIA21510865</li></ul>
+</div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
